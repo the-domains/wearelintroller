@@ -19,6 +19,10 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Alex Thebez
+  email: alex@lint-roller.com
+  url: www.alexthebez.com
 name: wearelintroller
 cta:
   domain: null
