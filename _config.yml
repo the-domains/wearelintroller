@@ -1,19 +1,4 @@
-name: wearelintroller
-favicon: null
-layout_spectrum: 0.5281130312941968
 typography_spectrum: 0.916678280569613
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#A690A4'
@@ -25,4 +10,20 @@ color:
   lightness: 0.07827172242105007
   saturation: 0.2725580653641373
   rhythmicContrast: 0.14294088422320783
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5281130312941968
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: wearelintroller
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: WEARELINTROLLER
 purpose: []
